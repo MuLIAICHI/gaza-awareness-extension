@@ -1,0 +1,231 @@
+/* Gaza Awareness Extension - Additional Styles */
+/* This file provides backup styling and enhanced animations for the overlay */
+
+/* Global overlay reset - ensures our styles take precedence */
+#gaza-awareness-overlay * {
+    margin: 0 !important;
+    padding: 0 !important;
+    box-sizing: border-box !important;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif !important;
+}
+
+/* Enhanced animations for the Gaza overlay */
+@keyframes gazaOverlayFadeIn {
+    0% {
+        opacity: 0;
+        backdrop-filter: blur(0px);
+    }
+    100% {
+        opacity: 1;
+        backdrop-filter: blur(3px);
+    }
+}
+
+@keyframes gazaOverlayFadeOut {
+    0% {
+        opacity: 1;
+        backdrop-filter: blur(3px);
+    }
+    100% {
+        opacity: 0;
+        backdrop-filter: blur(0px);
+    }
+}
+
+@keyframes gazaContentSlideIn {
+    0% {
+        transform: scale(0.7) translateY(30px);
+        opacity: 0;
+    }
+    50% {
+        transform: scale(1.02) translateY(-5px);
+        opacity: 0.8;
+    }
+    100% {
+        transform: scale(1) translateY(0);
+        opacity: 1;
+    }
+}
+
+@keyframes gazaContentSlideOut {
+    0% {
+        transform: scale(1) translateY(0);
+        opacity: 1;
+    }
+    100% {
+        transform: scale(0.9) translateY(20px);
+        opacity: 0;
+    }
+}
+
+/* Pulse animation for call-to-action elements */
+@keyframes gazaPulse {
+    0%, 100% {
+        box-shadow: 0 0 0 0 rgba(46, 204, 113, 0.4);
+    }
+    50% {
+        box-shadow: 0 0 0 10px rgba(46, 204, 113, 0);
+    }
+}
+
+/* Gentle glow effect */
+@keyframes gazaGlow {
+    0%, 100% {
+        box-shadow: 0 20px 60px rgba(0, 0, 0, 0.3);
+    }
+    50% {
+        box-shadow: 0 20px 60px rgba(0, 0, 0, 0.3), 0 0 30px rgba(46, 204, 113, 0.2);
+    }
+}
+
+/* Mobile responsive adjustments */
+@media (max-width: 480px) {
+    #gaza-awareness-overlay .gaza-content-container {
+        width: 95% !important;
+        padding: 30px !important;
+        margin: 20px !important;
+    }
+    
+    #gaza-awareness-overlay h2 {
+        font-size: 24px !important;
+    }
+    
+    #gaza-awareness-overlay p {
+        font-size: 16px !important;
+    }
+    
+    #gaza-awareness-overlay .gaza-emoji {
+        font-size: 40px !important;
+    }
+}
+
+/* High contrast mode support */
+@media (prefers-contrast: high) {
+    #gaza-awareness-overlay {
+        background: rgba(0, 0, 0, 0.95) !important;
+    }
+    
+    #gaza-awareness-overlay .gaza-content-container {
+        background: #000 !important;
+        border: 3px solid #fff !important;
+        color: #fff !important;
+    }
+    
+    #gaza-awareness-overlay .gaza-action-box {
+        background: #fff !important;
+        color: #000 !important;
+        border: 2px solid #000 !important;
+    }
+}
+
+/* Reduced motion support */
+@media (prefers-reduced-motion: reduce) {
+    #gaza-awareness-overlay,
+    #gaza-awareness-overlay * {
+        animation: none !important;
+        transition: none !important;
+    }
+    
+    #gaza-awareness-overlay {
+        opacity: 1 !important;
+    }
+}
+
+/* Dark mode preference detection */
+@media (prefers-color-scheme: light) {
+    #gaza-awareness-overlay .gaza-content-container {
+        background: linear-gradient(135deg, #34495e, #2c3e50) !important;
+    }
+}
+
+/* Focus management for accessibility */
+#gaza-awareness-overlay:focus-within {
+    outline: 3px solid #2ecc71 !important;
+    outline-offset: 2px !important;
+}
+
+/* Additional utility classes for dynamic content */
+.gaza-overlay-hidden {
+    display: none !important;
+}
+
+.gaza-overlay-visible {
+    display: flex !important;
+}
+
+.gaza-content-loading {
+    opacity: 0.6 !important;
+    pointer-events: none !important;
+}
+
+.gaza-content-error {
+    background: linear-gradient(135deg, #e74c3c, #c0392b) !important;
+    border-color: #e74c3c !important;
+}
+
+/* Print styles - hide overlay when printing */
+@media print {
+    #gaza-awareness-overlay {
+        display: none !important;
+    }
+}
+
+/* Backup font stack for various systems */
+.gaza-font-fallback {
+    font-family: 
+        -apple-system,
+        BlinkMacSystemFont,
+        'Segoe UI',
+        'Roboto',
+        'Oxygen',
+        'Ubuntu',
+        'Cantarell',
+        'Fira Sans',
+        'Droid Sans',
+        'Helvetica Neue',
+        Arial,
+        sans-serif !important;
+}
+
+/* Color variables for consistent theming */
+:root {
+    --gaza-primary-green: #2ecc71;
+    --gaza-dark-green: #27ae60;
+    --gaza-red: #e74c3c;
+    --gaza-dark-red: #c0392b;
+    --gaza-dark-bg: #2c3e50;
+    --gaza-darker-bg: #34495e;
+    --gaza-light-text: #ecf0f1;
+    --gaza-muted-text: #bdc3c7;
+    --gaza-overlay-bg: rgba(0, 0, 0, 0.85);
+}
+
+/* Scrollbar styling for content areas */
+#gaza-awareness-overlay *::-webkit-scrollbar {
+    width: 8px !important;
+}
+
+#gaza-awareness-overlay *::-webkit-scrollbar-track {
+    background: rgba(255, 255, 255, 0.1) !important;
+    border-radius: 4px !important;
+}
+
+#gaza-awareness-overlay *::-webkit-scrollbar-thumb {
+    background: var(--gaza-primary-green) !important;
+    border-radius: 4px !important;
+}
+
+#gaza-awareness-overlay *::-webkit-scrollbar-thumb:hover {
+    background: var(--gaza-dark-green) !important;
+}
+
+/* Selection styling */
+#gaza-awareness-overlay *::selection {
+    background: var(--gaza-primary-green) !important;
+    color: white !important;
+}
+
+#gaza-awareness-overlay *::-moz-selection {
+    background: var(--gaza-primary-green) !important;
+    color: white !important;
+}

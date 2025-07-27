@@ -1,0 +1,201 @@
+{
+  "last_updated": "2025-01-27T12:00:00Z",
+  "version": "1.0",
+  "campaigns": [
+    {
+      "title": "Emergency Medical Aid for Gaza",
+      "message": "Critical medical supplies and equipment needed for Gaza's overwhelmed healthcare system.",
+      "image": "🏥",
+      "action": "Every donation saves lives in Gaza's hospitals.",
+      "priority": "urgent",
+      "links": [
+        {
+          "text": "🩺 Medical Aid for Palestinians",
+          "url": "https://www.map.org.uk/donate/donate",
+          "type": "donation",
+          "verified": true,
+          "description": "UK-based charity providing medical aid"
+        },
+        {
+          "text": "🏥 Doctors Without Borders - Gaza",
+          "url": "https://www.doctorswithoutborders.org/what-we-do/countries/palestine",
+          "type": "donation",
+          "verified": true,
+          "description": "International medical humanitarian aid"
+        },
+        {
+          "text": "📱 Share Gaza Medical Crisis",
+          "url": "https://www.instagram.com/p/C2abc123def/",
+          "type": "social",
+          "platform": "instagram",
+          "description": "Raise awareness about medical needs"
+        }
+      ]
+    },
+    {
+      "title": "Gaza Children Emergency Fund",
+      "message": "Over 1 million children in Gaza need immediate humanitarian assistance.",
+      "image": "🧒",
+      "action": "Protect Gaza's children and their future.",
+      "priority": "urgent",
+      "links": [
+        {
+          "text": "🧒 Save the Children - Gaza Appeal",
+          "url": "https://www.savethechildren.org/us/where-we-work/palestine",
+          "type": "donation",
+          "verified": true,
+          "description": "Children's emergency relief"
+        },
+        {
+          "text": "🎒 Palestine Children's Relief Fund",
+          "url": "https://www.pcrf.net/",
+          "type": "donation",
+          "verified": true,
+          "description": "Medical care for Palestinian children"
+        },
+        {
+          "text": "📚 UNICEF Gaza Emergency Response",
+          "url": "https://www.unicef.org/emergencies/children-gaza-need-lifesaving-support",
+          "type": "info",
+          "description": "Learn about children's needs in Gaza"
+        }
+      ]
+    },
+    {
+      "title": "Gaza Family Relief & Shelter",
+      "message": "Displaced families in Gaza urgently need food, water, and temporary shelter.",
+      "image": "🏠",
+      "action": "Provide essential supplies to Gaza families.",
+      "priority": "high",
+      "links": [
+        {
+          "text": "🏡 Islamic Relief - Gaza Emergency",
+          "url": "https://islamicrelief.org/appeals/palestine-emergency-appeal/",
+          "type": "donation",
+          "verified": true,
+          "description": "Emergency aid for displaced families"
+        },
+        {
+          "text": "💧 UNRWA Gaza Crisis Appeal",
+          "url": "https://www.unrwa.org/donate",
+          "type": "donation",
+          "verified": true,
+          "description": "UN refugee agency for Palestinians"
+        },
+        {
+          "text": "📰 Gaza Displacement Crisis - BBC",
+          "url": "https://www.bbc.com/news/topics/c008ql15vpyt",
+          "type": "news",
+          "description": "Latest news on Gaza humanitarian crisis"
+        }
+      ]
+    },
+    {
+      "title": "Gaza Mental Health Support",
+      "message": "Trauma and psychological support needed for Gaza's population, especially children.",
+      "image": "🧠",
+      "action": "Mental health is as critical as physical health.",
+      "priority": "high",
+      "links": [
+        {
+          "text": "🧠 Gaza Community Mental Health",
+          "url": "https://www.gcmhp.net/en/",
+          "type": "donation",
+          "verified": true,
+          "description": "Local mental health organization"
+        },
+        {
+          "text": "💚 Mental Health Support Fund",
+          "url": "https://www.justgiving.com/campaigns/charity/map/gazamentalhealth",
+          "type": "donation",
+          "verified": true,
+          "description": "Psychological support for trauma victims"
+        },
+        {
+          "text": "📊 WHO Gaza Mental Health Report",
+          "url": "https://www.who.int/emergencies/disease-outbreak-news/item/2023-DON498",
+          "type": "info",
+          "description": "World Health Organization Gaza assessment"
+        }
+      ]
+    },
+    {
+      "title": "Support Gaza Journalists",
+      "message": "Palestinian journalists risk their lives to document and report from Gaza.",
+      "image": "📸",
+      "action": "Press freedom and truth-telling need our support.",
+      "priority": "medium",
+      "links": [
+        {
+          "text": "📺 Committee to Protect Journalists",
+          "url": "https://cpj.org/donate/",
+          "type": "donation",
+          "verified": true,
+          "description": "Protecting journalists worldwide"
+        },
+        {
+          "text": "📱 Follow @eye.on.palestine",
+          "url": "https://www.instagram.com/eye.on.palestine/",
+          "type": "social",
+          "platform": "instagram",
+          "description": "Real-time Gaza documentation"
+        },
+        {
+          "text": "🎥 Gaza Journalist Safety Report",
+          "url": "https://rsf.org/en/country/palestine",
+          "type": "info",
+          "description": "Reporters Without Borders Palestine"
+        }
+      ]
+    },
+    {
+      "title": "Long-term Gaza Reconstruction",
+      "message": "Gaza will need massive reconstruction efforts once the immediate crisis ends.",
+      "image": "🔨",
+      "action": "Invest in Gaza's rebuilding and future.",
+      "priority": "medium",
+      "links": [
+        {
+          "text": "🏗️ Rebuilding Gaza Infrastructure",
+          "url": "https://www.anera.org/where-we-work/gaza/",
+          "type": "donation",
+          "verified": true,
+          "description": "American Near East Refugee Aid"
+        },
+        {
+          "text": "🛒 Support Palestinian Businesses",
+          "url": "https://shop.palestinesolidarity.org/",
+          "type": "action",
+          "description": "Economic solidarity through purchasing"
+        },
+        {
+          "text": "📈 Gaza Economic Recovery Plans",
+          "url": "https://unctad.org/news/palestinian-economy-needs-urgent-support",
+          "type": "info",
+          "description": "UN economic assessment for Gaza"
+        }
+      ]
+    }
+  ],
+  "emergency_contacts": [
+    {
+      "name": "Gaza Emergency Hotline",
+      "number": "+970-8-286-8378",
+      "type": "emergency"
+    }
+  ],
+  "social_campaigns": [
+    {
+      "hashtag": "#GazaAwareness",
+      "description": "General Gaza awareness campaign"
+    },
+    {
+      "hashtag": "#ChildrenOfGaza", 
+      "description": "Focus on children's needs"
+    },
+    {
+      "hashtag": "#GazaRelief",
+      "description": "Humanitarian aid campaign"
+    }
+  ]
+}
