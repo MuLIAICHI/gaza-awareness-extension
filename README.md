@@ -99,7 +99,7 @@ We welcome community contributions to keep Gaza awareness campaigns current and 
 Found a verified Gaza relief campaign? Help us include it!
 
 #### Quick Contribution (2 minutes):
-1. **🍴 [Fork this repository](https://github.com/MuLIAICHI/gaza-awareness-extension/fork)**
+1. **🍴 Fork this repository
 2. **📝 Edit `links.json`** following our structure guide
 3. **📤 Submit pull request** with verification details
 4. **🚀 Auto-deployed** to all extensions within 6 hours
