@@ -216,7 +216,7 @@ const sixHours = 6 * 60 * 60 * 1000; // 6 hours
 - **No technical skills** required
 
 ### Quick Install Steps
-1. Download ZIP from [releases](https://github.com/YOUR_USERNAME/gaza-awareness-extension/releases)
+1. Download ZIP from [releases](https://muliaichi.github.io/gaza-awareness-extension/releases)
 2. Extract ZIP file
 3. Open `chrome://extensions/`
 4. Enable "Developer mode"
@@ -233,7 +233,7 @@ const sixHours = 6 * 60 * 60 * 1000; // 6 hours
 | **Extension won't load** | Verify all files extracted; check developer console |
 | **JSON fetch fails** | Check GitHub Pages URL; verify internet connection |
 
-**🐛 [Report Issues](https://github.com/YOUR_USERNAME/gaza-awareness-extension/issues)**
+**🐛 [Report Issues](https://muliaichi.github.io/gaza-awareness-extension/issues)**
 
 ---
 
@@ -258,8 +258,8 @@ const sixHours = 6 * 60 * 60 * 1000; // 6 hours
 ## 🌍 Community & Support
 
 ### Get Help
-- **💬 [GitHub Discussions](https://github.com/YOUR_USERNAME/gaza-awareness-extension/discussions)** - General questions
-- **🐛 [GitHub Issues](https://github.com/YOUR_USERNAME/gaza-awareness-extension/issues)** - Bug reports
+- **💬 [GitHub Discussions](https://muliaichi.github.io/gaza-awareness-extension/discussions)** - General questions
+- **🐛 [GitHub Issues](https://muliaichi.github.io/gaza-awareness-extension/issues)** - Bug reports
 - **📧 Email**: your-email@example.com - Direct contact
 
 ### Stay Updated
@@ -279,12 +279,12 @@ Help spread Gaza awareness:
 - Dynamic community-driven updates
 - 100% privacy-focused & open source
 
-📥 Free download: https://github.com/YOUR_USERNAME/gaza-awareness-extension
+📥 Free download: https://muliaichi.github.io/gaza-awareness-extension
 
 #Gaza #Palestine #ChromeExtension #Awareness #OpenSource
 ```
 
-**Social Media**: [Twitter](https://twitter.com/intent/tweet?text=🇵🇸%20Gaza%20Awareness%20Chrome%20Extension%20-%20Keep%20Gaza%20in%20global%20awareness%20https://github.com/YOUR_USERNAME/gaza-awareness-extension) | [Facebook](https://www.facebook.com/sharer/sharer.php?u=https://github.com/YOUR_USERNAME/gaza-awareness-extension) | [LinkedIn](https://www.linkedin.com/sharing/share-offsite/?url=https://github.com/YOUR_USERNAME/gaza-awareness-extension)
+**Social Media**: [Twitter](https://twitter.com/intent/tweet?text=🇵🇸%20Gaza%20Awareness%20Chrome%20Extension%20-%20Keep%20Gaza%20in%20global%20awareness%20https://muliaichi.github.io/gaza-awareness-extension) | [Facebook](https://www.facebook.com/sharer/sharer.php?u=https://muliaichi.github.io/gaza-awareness-extension) | [LinkedIn](https://www.linkedin.com/sharing/share-offsite/?url=https://muliaichi.github.io/gaza-awareness-extension)
 
 ---
 
@@ -335,14 +335,14 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 - **📚 Educational Initiative**: Integration with schools and universities
 - **🔄 Real-time Updates**: Live campaign status and funding progress
 
-**Want to contribute to these features?** Check our [project board](https://github.com/YOUR_USERNAME/gaza-awareness-extension/projects) or [open an issue](https://github.com/YOUR_USERNAME/gaza-awareness-extension/issues/new) with your ideas!
+**Want to contribute to these features?** Check our [project board](https://muliaichi.github.io/gaza-awareness-extension/projects) or [open an issue](https://muliaichi.github.io/gaza-awareness-extension/issues/new) with your ideas!
 
 ---
 
 ## 🎯 Call to Action
 
 ### For Users
-1. **📥 [Download the extension](https://github.com/YOUR_USERNAME/gaza-awareness-extension/releases/latest)**
+1. **📥 [Download the extension](https://muliaichi.github.io/gaza-awareness-extension/releases/latest)**
 2. **⚙️ Set a comfortable reminder interval** (10+ minutes recommended)
 3. **🔗 Click campaign links** when overlays appear - every click helps Gaza
 4. **📢 Share** with friends, family, and social networks
@@ -376,14 +376,13 @@ Every overlay shown, every link clicked, every donation made, and every story sh
 ## 📞 Contact
 
 ### Project Maintainers
-- **Primary Maintainer**: [Your Name](mailto:your-email@example.com)
-- **Technical Lead**: [Your Name](https://github.com/YOUR_USERNAME)
+- **Primary Maintainer**: [IAICHI MUSTAPHA](mailto:mustaphaliaichi@gmail.com)
 
 ### Project Links
 - **🌐 Project Website**: [https://YOUR_USERNAME.github.io/gaza-awareness-extension](https://YOUR_USERNAME.github.io/gaza-awareness-extension)
-- **📦 Releases**: [GitHub Releases](https://github.com/YOUR_USERNAME/gaza-awareness-extension/releases)
-- **🐛 Issues**: [GitHub Issues](https://github.com/YOUR_USERNAME/gaza-awareness-extension/issues)
-- **💬 Discussions**: [GitHub Discussions](https://github.com/YOUR_USERNAME/gaza-awareness-extension/discussions)
+- **📦 Releases**: [GitHub Releases](https://muliaichi.github.io/gaza-awareness-extension/releases)
+- **🐛 Issues**: [GitHub Issues](https://muliaichi.github.io/gaza-awareness-extension/issues)
+- **💬 Discussions**: [GitHub Discussions](https://muliaichi.github.io/gaza-awareness-extension/discussions)
 
 ### Security
 For security-related issues, please email: security@example.com
@@ -396,4 +395,4 @@ For security-related issues, please email: security@example.com
 
 **Latest Update**: January 27, 2025  
 **Version**: 2.0  
-**Contributors**: [View all contributors](https://github.com/YOUR_USERNAME/gaza-awareness-extension/graphs/contributors)
+**Contributors**: [View all contributors](https://muliaichi.github.io/gaza-awareness-extension/graphs/contributors)
