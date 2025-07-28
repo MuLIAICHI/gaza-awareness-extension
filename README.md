@@ -30,7 +30,7 @@ The Gaza Awareness Extension helps maintain global awareness about the ongoing h
 
 ### For Users (5 minutes)
 
-1. **📦 [Download Latest Release](https://muliaichi.github.io/gaza-awareness-extension/releases/latest)**
+1. **📦 [Download Latest Release](https://muliaichi.github.io/gaza-awareness-extension/releases/)**
 2. **📖 Follow our [Installation Guide](./extension/INSTALL.md)**
 3. **⚙️ Set your reminder interval (10+ minutes recommended)**
 4. **🎯 Start seeing Gaza awareness with actionable links**
