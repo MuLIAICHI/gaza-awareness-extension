@@ -190,7 +190,7 @@ document.addEventListener('DOMContentLoaded', function() {
     function showAbout(e) {
         e.preventDefault();
         
-        const aboutText = `Gaza Awareness Extension v1.0
+        const aboutText = `Gaza Awareness Extension v2.0
 
 This extension displays periodic reminders about the ongoing situation in Gaza to help maintain awareness and keep important conversations alive.
 
