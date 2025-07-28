@@ -272,7 +272,7 @@ Every link in our extension leads to verified organizations actively helping peo
 - **📄 License**: MIT License - see [LICENSE](../LICENSE) file
 
 ### **Contact**
-- **📧 Email**: your-email@example.com
+- **📧 Email**: mustaphaliaihci@gmail.com
 - **🐙 GitHub**: [@muliaichi](https://github.com/muliaichi)
 
 ---

@@ -260,7 +260,7 @@ const sixHours = 6 * 60 * 60 * 1000; // 6 hours
 ### Get Help
 - **💬 [GitHub Discussions](https://muliaichi.github.io/gaza-awareness-extension/discussions)** - General questions
 - **🐛 [GitHub Issues](https://muliaichi.github.io/gaza-awareness-extension/issues)** - Bug reports
-- **📧 Email**: your-email@example.com - Direct contact
+- **📧 Email**: mustaphaliaichi@gmail.com - Direct contact
 
 ### Stay Updated
 - **⭐ Star this repository** to get notified of updates
@@ -282,11 +282,11 @@ Help spread Gaza awareness:
 📥 Free download: https://muliaichi.github.io/gaza-awareness-extension
 
 #Gaza #Palestine #ChromeExtension #Awareness #OpenSource
-```
+<!-- ```
 
 **Social Media**: [Twitter](https://twitter.com/intent/tweet?text=🇵🇸%20Gaza%20Awareness%20Chrome%20Extension%20-%20Keep%20Gaza%20in%20global%20awareness%20https://muliaichi.github.io/gaza-awareness-extension) | [Facebook](https://www.facebook.com/sharer/sharer.php?u=https://muliaichi.github.io/gaza-awareness-extension) | [LinkedIn](https://www.linkedin.com/sharing/share-offsite/?url=https://muliaichi.github.io/gaza-awareness-extension)
 
----
+--- -->
 
 ## 📜 License & Ethics
 
